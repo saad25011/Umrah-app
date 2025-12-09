@@ -1,0 +1,17 @@
+tzdata==2025.2
+ujson==5.11.0
+urllib3==2.6.1
+uvicorn==0.38.0
+uvloop==0.22.1
+vine==5.1.0
+warlock==2.1.0
+watchfiles==1.1.1
+wcwidth==0.2.14
+WebOb==1.8.9
+websockets==15.0.1
+Werkzeug==3.1.4
+wrapt==2.0.1
+WSME==0.12.1
+yappi==1.7.3
+zipp==3.23.0
+mangum==0.19.0
